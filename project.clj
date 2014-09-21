@@ -1,6 +1,6 @@
-(defproject ragtime "0.3.7"
+(defproject clojurewerkz/ragtime "0.3.8"
   :description "A database-independent migration library"
-  :dependencies [[ragtime/ragtime.core "0.3.7"]
+  :dependencies [[clojurewerkz/ragtime.core "0.3.8"]
                  [ragtime/ragtime.sql "0.3.7"]
                  [ragtime/ragtime.sql.files "0.3.7"]]
   :plugins [[lein-sub "0.2.1"]

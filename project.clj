@@ -1,8 +1,8 @@
-(defproject clojurewerkz/ragtime "0.4.0"
+(defproject clojurewerkz/ragtime "0.4.1-SNAPSHOT"
   :description "A database-independent migration library"
-  :dependencies [[clojurewerkz/ragtime.core "0.4.0"]
-                 [clojurewerkz/ragtime.sql "0.4.0"]
-                 [clojurewerkz/ragtime.sql.files "0.4.0"]]
+  :dependencies [[clojurewerkz/ragtime.core "0.4.1-SNAPSHOT"]
+                 [clojurewerkz/ragtime.sql "0.4.1-SNAPSHOT"]
+                 [clojurewerkz/ragtime.sql.files "0.4.1-SNAPSHOT"]]
   :plugins [[lein-sub "0.2.1"]
             [codox "0.6.7"]]
   :sub ["ragtime.core" "ragtime.sql" "ragtime.sql.files"]

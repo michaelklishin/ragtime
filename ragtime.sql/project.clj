@@ -1,6 +1,6 @@
 (defproject clojurewerkz/ragtime.sql "0.3.9"
   :description "Ragtime migrations for SQL databases"
-  :dependencies [[org.clojure/clojure "1.3.0"]
+  :dependencies [[org.clojure/clojure "1.6.0"]
                  [clojurewerkz/ragtime.core "0.3.9"]
                  [org.clojure/java.jdbc "0.2.3"]]
   :profiles

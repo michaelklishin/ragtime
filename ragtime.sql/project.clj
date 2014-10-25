@@ -1,7 +1,7 @@
-(defproject clojurewerkz/ragtime.sql "0.4.0"
+(defproject clojurewerkz/ragtime.sql "0.4.1-SNAPSHOT"
   :description "Ragtime migrations for SQL databases"
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [clojurewerkz/ragtime.core "0.4.0"]
+                 [clojurewerkz/ragtime.core "0.4.1-SNAPSHOT"]
                  [org.clojure/java.jdbc "0.2.3"]]
   :profiles
   {:dev {:dependencies [[com.h2database/h2 "1.3.160"]]}

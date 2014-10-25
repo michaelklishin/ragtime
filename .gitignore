@@ -6,6 +6,6 @@ classes/
 target/
 checkouts/
 doc/
-.lein-failures
-.lein-deps-sum
-.lein-repl-history
+.lein-*
+*.sh
+

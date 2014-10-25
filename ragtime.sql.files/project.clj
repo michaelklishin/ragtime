@@ -1,6 +1,6 @@
 (defproject clojurewerkz/ragtime.sql.files "0.3.9"
   :description "Ragtime adapter that reads migrations from SQL files."
-  :dependencies [[org.clojure/clojure "1.3.0"]
+  :dependencies [[org.clojure/clojure "1.6.0"]
                  [clojurewerkz/ragtime.sql "0.3.9"]
                  [org.clojure/java.jdbc "0.2.3"]]
   :profiles
